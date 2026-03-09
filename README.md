@@ -18,8 +18,6 @@
 
 https://quantops-options-engine.vercel.app
 
-## 📸 Screenshots
-
 ### Landing Page
 > A sleek, dark-themed entry point with key metrics and feature highlights at a glance.
 
