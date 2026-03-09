@@ -198,7 +198,7 @@ React Frontend ──( POST /api/price )──▶ FastAPI Router
 Option Trading/
 ├── README.md
 ├── docs/
-│   └── screenshots/               # Application screenshots
+│   └── screenshots/               
 │
 ├── backend/
 │   ├── main.py                     # FastAPI app entry point + CORS + SafeJSONResponse
@@ -225,7 +225,7 @@ Option Trading/
 │   │   └── ensemble.py             # Adaptive weighted ensemble combiner
 │   │
 │   ├── data/
-│   │   └── __init__.py             # Data package
+│   │   └── __init__.py             
 │   │
 │   └── tests/
 │       ├── __init__.py
@@ -233,14 +233,14 @@ Option Trading/
 │       └── test_api.py             # 10 API integration tests
 │
 └── frontend/
-    ├── index.html                  # HTML entry point
+    ├── index.html                  
     ├── package.json                # Node.js dependencies
     ├── vite.config.js              # Vite config with API proxy
     │
     └── src/
         ├── main.jsx                # React app bootstrap
         ├── App.jsx                 # Main app + routing + state management
-        ├── index.css               # Global dark theme styles
+        ├── index.css               
         │
         ├── api/
         │   └── client.js           # Axios API client (7 endpoints)
@@ -254,14 +254,12 @@ Option Trading/
         │   └── Layout.jsx          # Sidebar + top bar layout
         │
         └── theme/
-            └── tokens.js           # Design system color tokens
+            └── tokens.js           
 ```
 
 ---
 
 ## API Reference
-
-All endpoints accept and return JSON. Base URL: `http://localhost:8000`
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -298,8 +296,6 @@ curl -X POST http://localhost:8000/api/price \
   "parameters":    { "S": 100, "K": 100, "T": 1.0, "r": 0.05, "sigma": 0.2, "option_type": "call" }
 }
 ```
-
-> **Interactive docs:** Visit `http://localhost:8000/docs` for Swagger UI.
 
 ---
 
