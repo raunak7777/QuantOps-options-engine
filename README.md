@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Σ QuantOps — Options Pricing Engine</h1>
+  <h1 align="center">QuantOps — Options Pricing Engine</h1>
   <p align="center">
     <strong>A quantitative options pricing platform with AI-driven volatility prediction</strong>
   </p>
