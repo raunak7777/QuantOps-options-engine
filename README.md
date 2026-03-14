@@ -38,7 +38,7 @@ Link : https://quantops-options-engine.vercel.app
 ![Monte Carlo Panel](docs/screenshots/monte_carlo.png)
 
 ### Volatility Surface
-> 3D implied volatility surface across 20 strikes and 8 maturities with parametric smile/skew modeling via Plotly.js.
+> It includes a 3D implied volatility surface across 20 strikes and 8 maturities with parametric smile/skew modeling via Plotly.js.
 
 ![Volatility Surface Panel](docs/screenshots/vol_surface.png)
 
