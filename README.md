@@ -3,13 +3,6 @@
   <p align="center">
     <strong>A quantitative options pricing platform with AI-driven volatility prediction</strong>
   </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/python-3.12+-blue?logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi&logoColor=white" alt="FastAPI">
-    <img src="https://img.shields.io/badge/PyTorch-2.2-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/Tests-32%20passed-brightgreen?logo=pytest&logoColor=white" alt="Tests">
-  </p>
 </p>
 
 ---
