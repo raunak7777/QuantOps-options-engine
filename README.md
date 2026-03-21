@@ -5,6 +5,7 @@
   </p>
 </p>
 
+
 ---
 **QuantOps** is a full-stack options pricing engine that combines classical quantitative finance models with modern AI/ML techniques for volatility forecasting. It features a dark-themed React dashboard with interactive visualizations for pricing comparisons, Greeks analysis, Monte Carlo simulations, volatility surfaces, and ensemble AI predictions.
 
